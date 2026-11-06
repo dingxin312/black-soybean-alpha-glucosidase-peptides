@@ -1,5 +1,10 @@
 # Legacy dual-background alpha-glucosidase inhibitory peptide models
 
+[![DOI](https://zenodo.org/badge/1448005823.svg)](https://doi.org/10.5281/zenodo.24002488)
+
+Archived release: [10.5281/zenodo.24002488](https://doi.org/10.5281/zenodo.24002488)  
+Concept DOI (all versions): [10.5281/zenodo.24002518](https://doi.org/10.5281/zenodo.24002518)
+
 Model version matching the manuscript.
 
 ## Metrics
